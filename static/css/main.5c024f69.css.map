@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.5c024f69.css","mappings":"AAAA,KACE,iBACF,CACA,IACE,YACF,CACA,OACE,WACF","sources":["App.css"],"sourcesContent":[".App{\n  text-align: center;\n}\ndiv{\n  padding: 10px;\n}\nselect{\n  padding: 5px;\n}"],"names":[],"sourceRoot":""}
